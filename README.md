@@ -27,7 +27,9 @@ We tried different models like SVM, Logistic Regression, KNN to predict the math
 It is important to use larger dataset for training and testing the classifier as the dataset we have used is small and may not have enough discriminating power to classify the features. It would also be useful to use advanced learning algorithms like ensemble learning and deep learning methods for classification. We could extend our analysis to study the differences in creativity, neuroticism, agreeability etc.	
 
 References:
+
 [1]Vivek Kulkarni, Jagat Sastry, “Sex differences in the Human Connectome”, International   Conference on Brain and Health Informatics BHI 2013: Brain and Health Informatics pp 82-91
+
 [2] Shai Shalev-Shwartz, Yoram Singer, Nathan Srebro, Andrew Cotter, “Pegasos: Primal Estimated sub-GrAdient SOlver for SVM”, Mathematical Programming, March 2011, Volume 127, Issue 1, pp 3–30.
 
 
